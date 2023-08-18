@@ -75,6 +75,7 @@ color: #2E2F42;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.4px;
+    color:#2e2f42;
 }
 .team-profession {
     color: #434455;
@@ -87,6 +88,7 @@ color: #2E2F42;
 .portfolio-back{
     background-color: #FFFFFF;
 }
+.section-portfolio-three-back{background-color: #FFFFFF}
 .portfolio-title {
     text-align: center;
 font-size: 36px;
@@ -121,6 +123,13 @@ text-transform: capitalize;
         font-family: "Raleway", sans-serif;
         line-height: 1.17;
         color: #4d5ae5;
+}
+.site{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
 }
 .footer-back {
     background-color:#2e2f42;
