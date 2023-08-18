@@ -48,6 +48,7 @@ background: #2E2F42;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.4px;
+        color:#2e2f42;
 }
 .content-item {
     color: #434455;
@@ -59,6 +60,7 @@ background: #2E2F42;
 .team-back{
     background-color: #F4F4FD;
 }
+.section-team-three-back{background-color: #FFFFFF;}
 .team-main{
     color: #2E2F42;
         text-align: center;
