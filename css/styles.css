@@ -22,9 +22,6 @@ a {
 .adresa {
     font-style: normal;
 }
-.title-none {
-    display: none;
-}
 .contact{
                 font-size: 16px;
                 font-weight: 400;
@@ -126,7 +123,7 @@ text-transform: capitalize;
         font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.54px;
         text-transform: uppercase;
         color: #4d5ae5;
